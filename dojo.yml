@@ -1,0 +1,17 @@
+id: system-security-lab-2025
+
+name:  Fall 2025 - 系统安全课程实验
+
+type: course
+
+award:
+  emoji: 0026_Raichu
+
+comparator: 9991
+
+modules:
+  - id: reverse-engineering
+    icon: 0005_Charmeleon
+
+  - id: mitigation-bypass
+    icon: 0006_Charizard
